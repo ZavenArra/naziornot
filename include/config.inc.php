@@ -16,5 +16,6 @@ include("fn/get_sidebar.fn.php"); //Function to get side barre
 PDO object  
 ====================================
 */
-$dbo=GetPDO('mysql','localhost','zooz_webapp','root','');//Generating PDO object
+$dbo=GetPDO('mysql','mysql.winterroot.net','hotornot1a','useruser444','meandmy687');//Generating PDO object
+# useruser44 myandmy687
 ?>
