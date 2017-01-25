@@ -15,7 +15,7 @@ function get_sidebar($dbo){
 				// alert("Over : "+document.getElementById("hwm"+id).style.display);
 			}
 		</script>
-		<br><div class="sidebar-title">Top rating pictures</div><br>
+		<br><div class="sidebar-title">Currently Trending Nazis </div><br>
 		<?php
 			$top = img_values(-1,$dbo);
 			$i=0;

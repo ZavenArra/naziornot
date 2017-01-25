@@ -42,7 +42,6 @@
 	font-size: 20px;	
 	color: #E1440D;
 	line-height: 111px;
-	background: url(style/images/content_title_sidebar_1_760.png) right bottom no-repeat;
 	
 }
 
@@ -118,7 +117,6 @@ footer {
 	font-size: 40px;
 	color: #E1440D;
 	line-height: 130px;
-	background: url(style/images/content_title_bar_1_760.png) right bottom no-repeat;
 }
 .hr-sidebar{
 	padding-bottom: 10px;

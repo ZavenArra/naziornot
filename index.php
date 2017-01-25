@@ -11,7 +11,7 @@ include("head.php");
 ?>
 </div>
 <div class="content">
-	<div class="content-title">Acceuil</div>
+	<div class="content-title">Nazi... Or Not?</div>
 	<?php
 		//to load 2 Image u must pass 3 in the function parameter : get_random_img(3,$dbo);
 		get_random_img(2,$dbo);

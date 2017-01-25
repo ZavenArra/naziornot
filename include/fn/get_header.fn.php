@@ -3,7 +3,8 @@
 
 function get_header(){
 	?>
-	<div class="logo"><a href="index.php"><img src="style/images/hotornot-logo.png"></a></div>
+	<div class="logo"><a href="index.php">
+</div>
 	<nav>
         <ul class="fancyNav">
             <li id="home"><a href="index.php" class="homeIcon">Home</a></li>
